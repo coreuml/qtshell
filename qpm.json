@@ -1,5 +1,5 @@
 {
-  "name": "com.github.benlau.qtshell",
+  "name": "com.github.coreuml.qtshell",
   "description": "Manipulate files by a shell command style API",
   "author": {
     "name": "Ben Lau",
@@ -7,10 +7,10 @@
   },
   "repository": {
     "type": "GITHUB",
-    "url": "https://github.com/benlau/qtshell.git"
+    "url": "https://github.com/coreuml/qtshell.git"
   },
   "version": {
-    "label": "0.4.6",
+    "label": "0.6.6",
     "revision": "",
     "fingerprint": ""
   },
